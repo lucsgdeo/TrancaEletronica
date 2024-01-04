@@ -15,8 +15,8 @@ A tranca se consiste, basicamente, em um projeto feito principalmente para cofre
 - **Display:** onde se encontra todas as informações do que está ocorrendo dentro do sistema;
 - **Teclado:** local em que o usuário fará a digitação da senha.
 
-```
-```
+#
+#
 
 ## 🔍 Referências
 - [Manual do Mundo](https://www.youtube.com/watch?v=V-bYuHMvRpE&ab_channel=ManualdoMundo/)
